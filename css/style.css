@@ -274,6 +274,6 @@ ul.list-unstyled li img{width:10%; height: auto; margin-right: 10px}
 .disclaimer ul{float:left; padding-left: 14px}
 .disclaimer ul li{float:left; font-family: 'Gotham_Book'; margin-bottom: 15px}
 .navbar-dark .navbar-toggler-icon{background-image: url("../img/menu.png")}
-
+.carousel-caption {bottom: 10rem !important; z-index: 10;}
 
 

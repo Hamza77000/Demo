@@ -1,12 +1,24 @@
 
-@media screen and (min-width: 412px) {
- .carousel-caption{bottom: 5rem;} 
-  .text-left h1{font-size:22px}	
+@media only screen and (min-width: 412px) {
+  .carousel-caption {
+    bottom: 5rem !important;
+  }
+  .text-left h1 {
+    font-size: 22px;
+  }
+  .back{width:85%; margin:0px auto; margin-bottom: 30px}
+	footer{margin:35px 0px}
 }
 
-@media screen and (min-width: 375px) {
- .carousel-caption{bottom: 3rem;} 
-  .text-left h1{font-size:22px}	
-}
 
+@media only screen and (min-width: 344px) {
+  .carousel-caption {
+    bottom: 3rem !important;
+  }
+  .text-left h1 {
+    font-size: 18px;
+  }
+  .back{width:85%; margin:0px auto; margin-bottom: 30px}
+	footer{margin:35px 0px}
+}
 
